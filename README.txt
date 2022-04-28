@@ -6,7 +6,7 @@ Działa tylko na systemie linux (tworzona na Ubuntu 20.04.2).
 1.W celu zbudowania programów należy otworzyć terminal
 	w folderze i wywołać polecenie "make"
 
-2.Urochomienie serwera odbywa sie za pomoca polecenia "./server"
+2.Uruchomienie serwera odbywa sie za pomoca polecenia "./server"
 
 3.Uruchomienie gracza odbywa sie w nowej instancji konsoli 
 za pomoca polecenia "./player p(numer gracza)" na przykład: "./player p1"
