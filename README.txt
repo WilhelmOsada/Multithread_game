@@ -24,3 +24,6 @@ Q/q - odłączenie gracza od serwera
 	w pliku source.h
 
 Good luck!
+
+Example of successful session:
+![alt text](https://raw.githubusercontent.com/WilhelmOsada/Multithread_game/main/Multithread_Game.png)
