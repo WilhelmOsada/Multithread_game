@@ -26,4 +26,4 @@ Q/q - odłączenie gracza od serwera
 Good luck!
 
 Example of successful session:
-![Example](https://github.com/WilhelmOsada/Multithread_game/blob/main/Multithread_Game.png?raw=true)
+https://github.com/WilhelmOsada/Multithread_game/blob/main/Multithread_Game.png?raw=true
